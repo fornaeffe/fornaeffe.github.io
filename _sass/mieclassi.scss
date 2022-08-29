@@ -9,7 +9,8 @@
 ul.pager { 
     display: flex; 
     list-style: none;
-    justify-content: center;
+    justify-content: space-between;
+    margin: 0;
 }
 ul.pager li {
     border: 1px solid $grey-color-light; 
