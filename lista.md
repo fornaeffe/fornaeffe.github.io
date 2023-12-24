@@ -19,8 +19,6 @@ anche perché non sono un tuttologo
 e su ogni argomento ci saranno molte persone più esperte di me:
 trovate i miei contatti in fondo alla pagina.
 
-**Premessa elettorale**: poiché sono candidato alle elezioni della Camera del 25 settembre 2022,
-specifico che questa lista NON è il programma della nostra lista: quello lo trovate sul [sito dell'alleanza Verdi - Sinistra - Possibile](https://www.verdisinistra.it).
 
 ## Le radici
 
