@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Il voto utile'
-date: 2016-06-11
+date: 2024-05-08
 draft: false
 tags: 
 - I Care - A me importa
