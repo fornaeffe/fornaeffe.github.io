@@ -37,9 +37,9 @@ Se qualcuno volesse provare a fare lo stesso, ho reso disponibile una [web app](
 
 [^1]: in realtà ne ho aggiunti mille, e poi ho diviso per mille il numero di seggi aggiunti o tolti. Pur con un milione di simulazioni, beccare proprio la situazione nella quale basta un voto per eleggere un candidato in più sarebbe troppo difficile!
 
-[^2]: Ad esempio, ho scoperto che, in media, un voto ad AVS aggiunge 16 milionesimi di seggio ai candidati di AVS, ma ne toglie 5 milionesimi a Fratelli d'Italia, 2 milionesimi a Forza Italia, 2 milionesimi alla Lega, 3 milionesimi al Movimento 5 Stelle e 4 milionesimi al Partito Democratico (perché se AVS supera la soglia del 4% i seggi che prima venivano spartiti solo tra i partiti maggiori devono essere spartiti anche con AVS). Se io ho dato un valore di +2 ad AVS, -2 a Fratelli d'Italia, Lega e Forza Italia, +1 al Movimento 5 Stelle e 0 al Partito Democratico, il valore (per me) del voto ad AVS diventa:
+[^2]:<div> Ad esempio, ho scoperto che, in media, un voto ad AVS aggiunge 16 milionesimi di seggio ai candidati di AVS, ma ne toglie 5 milionesimi a Fratelli d'Italia, 2 milionesimi a Forza Italia, 2 milionesimi alla Lega, 3 milionesimi al Movimento 5 Stelle e 4 milionesimi al Partito Democratico (perché se AVS supera la soglia del 4% i seggi che prima venivano spartiti solo tra i partiti maggiori devono essere spartiti anche con AVS). Se io ho dato un valore di +2 ad AVS, -2 a Fratelli d'Italia, Lega e Forza Italia, +1 al Movimento 5 Stelle e 0 al Partito Democratico, il valore (per me) del voto ad AVS diventa:
 
-<div>$$(+2) \cdot 16 \ milionesimi + \\
+$$(+2) \cdot 16 \ milionesimi + \\
 (-2) \cdot (-5 \ milionesimi -2 \ milionesimi -2 \ milionesimi) + \\
 (+1) \cdot (-3 \ milionesimi) + \\
 0 \cdot (-4 \ milionesimi) = \\
