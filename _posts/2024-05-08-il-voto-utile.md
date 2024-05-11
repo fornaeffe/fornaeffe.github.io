@@ -26,7 +26,7 @@ Facendo la media tra tutti i possibili risultati elettorali scopro così quanti 
 
 Ho quindi dato un valore a ciascuna lista: a quelle dalle quali mi sento rappresentato ho dato un valore positivo (+2 se mi ci ritrovo molto, +1 se mi ci ritrovo solo in parte), a quelle che sento lontane dalle mie idee ho dato un valore negativo (-2 se sono del tutto opposte, -1 se ci mi ritrovo poco).
 
-Dopodiché ho pesato i seggi in più o in meno in base al valore che ho dato io a ciascuna lista, scoprendo così se il voto ad AVS rende complessivamente il Parlamento Europeo più o meno rappresentativo delle mie idee.[^2]
+Dopodiché ho pesato i seggi in più o in meno in base al valore che ho dato io a ciascuna lista, scoprendo così se il voto ad AVS rende complessivamente il Parlamento Europeo più o meno rappresentativo delle mie idee.
 
 Ho ripetuto questo procedimento per il voto a ciascuna lista, scoprendo così di quanto aumentava (o diminuiva) il punteggio che indica quanto gli eletti mi rappresentano a seconda della lista votata.
 
