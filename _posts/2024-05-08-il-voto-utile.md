@@ -12,7 +12,7 @@ tags:
     <img src="/assets/use_your_vote.jpg" alt= "Usa il tuo voto" style="width: 480px;" />
 </div>
 
-Si avvicinano le [elezioni europee](https://elections.europa.eu/it/), e i sondaggi danno [Alleanza Verdi e Sinistra](https://verdisinistra.it/) molto vicina al 4%, ma il superamento della soglia non è certo.
+Si avvicinano le [elezioni europee](https://elections.europa.eu/it/), e i sondaggi danno [Alleanza Verdi e Sinistra](https://verdisinistra.it/) appena sopra al 4%, ma il superamento della soglia non è certo.
 
 Mi sono quindi chiesto: il voto ad Alleanza Verdi e Sinistra è un **voto utile**? In AVS ci sono [candidati che stimo](https://nicoladallolio.it/) e penso possano validamente rappresentare le mie idee, ma votandoli contribuisco davvero ad eleggerli, oppure il mio voto verrà sprecato, aumentando la possibilità che vengano elette persone che non mi rappresentano?
 
