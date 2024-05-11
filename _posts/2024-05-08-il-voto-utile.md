@@ -14,7 +14,7 @@ tags:
 
 Si avvicinano le [elezioni europee](https://elections.europa.eu/it/), e i sondaggi danno [Alleanza Verdi e Sinistra](https://verdisinistra.it/) molto vicina al 4%, ma il superamento della soglia non è certo.
 
-Mi sono quindi chiesto: il voto ad Alleanza Verdi e Sinistra è un **voto utile**? Votando AVS contribuisco davvero ad eleggere candidati che rappresentino le mie idee, oppure il mio voto verrà sprecato, aumentando la possibilità che vengano elette persone che non mi rappresentano?
+Mi sono quindi chiesto: il voto ad Alleanza Verdi e Sinistra è un **voto utile**? In AVS ci sono [candidati che stimo](https://nicoladallolio.it/) e penso possano validamente rappresentare le mie idee, ma votandoli contribuisco davvero ad eleggerli, oppure il mio voto verrà sprecato, aumentando la possibilità che vengano elette persone che non mi rappresentano?
 
 Ho fatto [due conti](https://fornaeffe.github.io/valore_voto), e la risposta è **sì, il voto ad Alleanza Verdi e Sinistra è un voto utile**, almeno per me.
 
@@ -32,7 +32,7 @@ Ho ripetuto questo procedimento per il voto a ciascuna lista, scoprendo così di
 
 Ho scoperto che il voto ad **Alleanza Verdi e Sinistra** è, di gran lunga, **il voto che più probabilmente riesce ad aumentare il numero di persone che mi rappresentano** nel Parlamento Europeo.
 
-E questo è vero nonostante la lista non riesca con certezza a superare la soglia: è più probabile riuscire a mandare in parlamento tre o quattro candidati di AVS cercando di superare la soglia, piuttosto che alzare così tanto i voti del PD da far eleggere tre o quattro candidati del PD in più.
+E questo è vero nonostante la lista non riesca con certezza a superare la soglia: è più probabile riuscire a mandare in parlamento tre o quattro candidati di AVS cercando di superare la soglia, piuttosto che, ad esempio, alzare così tanto i voti del PD o del M5S da far eleggere tre o quattro loro candidati in più.
 
 Se qualcuno volesse provare a fare lo stesso, ho reso disponibile una [web app](https://fornaeffe.github.io/valore_voto) per calcolare automaticamente qual è il voto più utile dato il valore che ciascuno dà alle liste.
 
