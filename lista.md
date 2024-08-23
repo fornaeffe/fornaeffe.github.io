@@ -299,6 +299,38 @@ Tutti questi sono costi ora sostenuti dalle famiglie: di conseguenza chi è più
 Finanziando questi costi con le tasse sull'uso delle risorse e con le imposte sul reddito
 si va, in modo semplice ed efficace, in direzione di una maggiore equità e solidarietà.
 
+#### Formazione e reclutamento degli insegnanti
+
+Uniformare gli attuali corsi per l'acquisizione dei CFU per l'insegnamento e corsi
+di specializzazione sul sostegno in una serie di corsi di laurea magistrale 
+(o master) biennali per l'abilitazione all'insegnamento.
+
+Per l'accesso a questi corsi dovrebbe essere prevista una prova che permette
+l'accesso al corso al superamento di una soglia minima. Il Ministero dell'Istruzione
+ dovrebbe indivduare il numero di docenti che saranno necessari per ciascuna classe
+ di concorso per coprire tutti i posti che si renderanno vacanti due anni dopo,
+ e garantire lo stesso numero di borse di studio da assegnare agli iscritti
+ ai corsi che hanno ottenuto i risultati migliori nella prova d'accesso, affinché
+ possano frequentare gratuitamente il corso.
+
+Le supplenze che dovessero rendersi necessarie verranno affidate ai partecipanti
+al corso, che verranno valutati dal comitato di valutazione della scuola e da un
+docente tutor individuato all'interno della scuola, e questa valutazione
+farà parte della valutazione complessiva del corso. Il corso sarà organizzato
+in modo di permettere il lavoro di docente, e le supplenze saranno retribuite
+nella stessa misura di un docente neoimmesso in ruolo.
+
+Al termine del corso verrà stilata una graduatoria di chi ha superato l'esame
+finale, e il Ministero assumerà a tempo indeterminato da questa graduatoria un numero di docenti
+sufficiente a coprire tutti i posti vacanti su quella classe di concorso.
+In questo modo le supplenze che rimarranno dovrebbero essere solo quelle
+temporanee, ad esempio per malattia, gravidanza o aspettativa.
+
+Tutti quelli che supereranno l'esame finale, anche quelli non assunti, avranno
+l'abilitazione all'insegnamento, valida per insegnare anche nelle scuole non 
+statali.
+
+
 ### Pensioni
 
 Le pensioni dovrebbero avere lo scopo di garantire una vita dignitosa a chi non può più lavorare,
