@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Una nuova fonte di energia per l'umanità'
+title: 'Una nuova fonte di energia per l''umanità'
 date: 2024-11-05
 draft: false
 tags: 
