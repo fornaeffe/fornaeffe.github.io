@@ -11,7 +11,7 @@ tags:
     <img src="/assets/insegnanti_non_insegnate.png" alt= "Insegnanti, non insegnate!" />
 </div>
 
-A quanto pare, è proprio quello che il Ministero ci chiede. Fare tutto, tranne
+A quanto pare, è proprio quello che ci viene chiesto. Fare tutto, tranne
 che insegnare.
 
 Nella scuola, esistono tantissimi incarichi che gli insegnanti possono (o più
