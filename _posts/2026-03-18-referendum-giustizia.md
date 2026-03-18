@@ -9,8 +9,8 @@ tags:
 
 Come cambia la Costituzione se vince il "sì" al referendum di questo fine settimana:
 
-<div class="columns">
-<div class="column">
+<div class="columns" markdown="1">
+<div class="column" markdown="1">
 
 **Art. 87 attuale**
 
@@ -20,7 +20,7 @@ Presiede il Consiglio superiore della magistratura.
 [...]
 
 </div>
-<div class="column">
+<div class="column" markdown="1">
 
 **Art. 87 riforma**
 
@@ -33,8 +33,8 @@ della magistratura requirente**.
 </div>
 </div>
 
-<div class="columns">
-<div class="column">
+<div class="columns" markdown="1">
+<div class="column" markdown="1">
 
 **Art. 102 attuale**
 
@@ -42,7 +42,7 @@ La funzione giurisdizionale è esercitata da magistrati ordinari istituiti e reg
 [...]
 
 </div>
-<div class="column">
+<div class="column" markdown="1">
 
 **Art. 102 riforma**
 
@@ -53,8 +53,8 @@ distinte carriere dei magistrati giudicanti e requirenti.**
 </div>
 </div>
 
-<div class="columns">
-<div class="column">
+<div class="columns" markdown="1">
+<div class="column" markdown="1">
 
 **Art. 104 attuale**
 
@@ -73,7 +73,7 @@ I membri elettivi del Consiglio durano in carica quattro anni e non sono immedia
 Non possono, finchè sono in carica, essere iscritti negli albi professionali, né far parte del Parlamento o di un Consiglio regionale.
 
 </div>
-<div class="column">
+<div class="column" markdown="1">
 
 **Art. 104 riforma**
 
@@ -111,15 +111,15 @@ Consiglio regionale
 </div>
 </div>
 
-<div class="columns">
-<div class="column">
+<div class="columns" markdown="1">
+<div class="column" markdown="1">
 
 **Art. 105 attuale**
 
 Spettano al Consiglio superiore della magistratura, secondo le norme dell'ordinamento giudiziario, le assunzioni, le assegnazioni ed i trasferimenti, le promozioni e i provvedimenti disciplinari nei riguardi dei magistrati.
 
 </div>
-<div class="column">
+<div class="column" markdown="1">
 
 **Art. 105 riforma**
 
@@ -170,8 +170,8 @@ siano rappresentati nel collegio.**
 </div>
 </div>
 
-<div class="columns">
-<div class="column">
+<div class="columns" markdown="1">
+<div class="column" markdown="1">
 
 **Art. 106 attuale**
 
@@ -180,7 +180,7 @@ siano rappresentati nel collegio.**
 Su designazione del Consiglio superiore della magistratura possono essere chiamati all'ufficio di consiglieri di cassazione, per meriti insigni, professori ordinari di università in materie giuridiche e avvocati che abbiano quindici anni d'esercizio e siano iscritti negli albi speciali per le giurisdizioni superiori.
 
 </div>
-<div class="column">
+<div class="column" markdown="1">
 
 **Art. 106 riforma**
 
@@ -194,8 +194,8 @@ almeno quindici anni di esercizio delle funzioni** e avvocati che abbiano quindi
 </div>
 
 
-<div class="columns">
-<div class="column">
+<div class="columns" markdown="1">
+<div class="column" markdown="1">
 
 **Art. 107 attuale**
 
@@ -204,7 +204,7 @@ I magistrati sono inamovibili. Non possono essere dispensati o sospesi dal servi
 [...]
 
 </div>
-<div class="column">
+<div class="column" markdown="1">
 
 **Art. 107 riforma**
 
@@ -216,15 +216,15 @@ I magistrati sono inamovibili. Non possono essere dispensati o sospesi dal servi
 </div>
 </div>
 
-<div class="columns">
-<div class="column">
+<div class="columns" markdown="1">
+<div class="column" markdown="1">
 
 **Art. 110 attuale**
 
 Ferme le competenze del Consiglio superiore della magistratura, spettano al Ministro della giustizia l'organizzazione e il funzionamento dei servizi relativi alla giustizia.
 
 </div>
-<div class="column">
+<div class="column" markdown="1">
 
 **Art. 110 riforma**
 
