@@ -17,3 +17,20 @@ ul.pager li {
     padding: 10px; 
     margin: 5px;
 }
+
+.columns {
+  display: flex;
+  gap: 1.5rem;
+  margin: 1rem 0;
+}
+
+.column {
+  flex: 1;
+}
+
+/* Responsive: su schermi piccoli diventa una colonna sola */
+@media (max-width: 768px) {
+  .columns {
+    flex-direction: column;
+  }
+}
