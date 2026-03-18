@@ -8,7 +8,7 @@ tags:
 ---
 
 <div class="figura" style="text-align: center">
-    <a title="Aerra Carnicom, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CGI_Palestine_Flag.png"><img width="512" alt="This is the flag of the State of Palestine, made in CGI." src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/CGI_Palestine_Flag.png/512px-CGI_Palestine_Flag.png?20241230025214"></a>
+    <a title="Aerra Carnicom, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CGI_Palestine_Flag.png"><img width="512" alt="This is the flag of the State of Palestine, made in CGI." src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/CGI_Palestine_Flag.png/960px-CGI_Palestine_Flag.png?_=20241230025214"></a>
 </div>
 
 La scorsa settimana, finalmente, anche la commissione istituita dalle Nazioni Unite [ha riconosciuto](https://www.ohchr.org/en/press-releases/2025/09/israel-has-committed-genocide-gaza-strip-un-commission-finds) il genocidio nei confronti dei palestinesi compiuto da Israele.
