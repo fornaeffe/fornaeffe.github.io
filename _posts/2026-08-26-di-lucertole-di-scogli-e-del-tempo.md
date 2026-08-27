@@ -7,22 +7,22 @@ tags:
 - Pagine di diario
 ---
 
-### 27 agosto 2026, Parma.
+#### 27 agosto 2026, Parma.
 
 C'è una lucertola sul nostro frigo. Dipinta ad acquerello, su una cartolina appena appesa.
 
 <div class="figura">
-    <img src="https://photos.google.com/share/AF1QipOciwrzi4Xs9SyUTL3nMtiwi6Yc5b9eqXn_vP0cB9LatAgEeNeVaumJtdT1rCNBzQ/photo/AF1QipN-7-eeQlCGdOE8JRxRIo8Em2dLkSfthkS2bv7j?key=WWpXdk55dzdBWHRYOVJlSl9VeXRFV0g0VC1oY0JR" alt="Podarcis raffonei" />
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczOF5obFnTonpfQxn2C-MuOea_2p3elb4BiTFtBFNOQogpCovWQAqVwi6_Ed9x-di5ARygfXWiyKVFlAw6s_d5S1XHs8AMtsqnhdxgc9vBKXo8geI6hxHWn9fT6REGinBfvh_E4AO00v8Yb6NXO-zYm1rw=w1247-h911-s-no-gm?authuser=0" alt="Podarcis raffonei" />
 </div>
 
-### Circa duecentomila anni fa, mar Tirreno.
+#### Circa duecentomila anni fa, mar Tirreno.
 
 La litosfera ionica sprofonda al di sotto della Calabria. Le rocce ricche di acqua fondono nelle altissime temperature del mantello. Il magma, leggero, risale lentissimamente verso la superficie, fino ad incontrare l'acqua dell'oceano e costruire, eruzione dopo eruzione, vulcani sottomarini. Questi crescono fino ad emergere: ecco nascere Lipari, Filicudi, Salina, anche se non sono certo i nomi che avrebbero potuto dar loro gli ominidi che popolavano la penisola allora.
 
 Portati dal mare, forse su zattere di rami o di erbe, o dal vento o dagli uccelli, i primi organismi terrestri arrivano su questi giovani vulcani irrequieti e reclamano per sé un po' di quel terreno fertile, roccia giovane ancora ricca di elementi preziosi per la vita. Tra questi, c'è una lucertola. Viene dalla Sicilia, si stabilisce su queste isole e ne fa la propria patria, colonizzando anche nuovi vulcani via via che emergeranno dal mare: Strombolicchio, Panarea, Vulcano, Alicudi e infine Stromboli. Passanno gli anni, gli anni diventano secoli, i secoli millenni, i millenni diventano decine poi centinaia di migliaia di anni. La lucertola delle eolie non ha più contatti con le sue lontane parenti sicule, i loro genomi si allontanano, molti anni dopo qualcuno se ne accorgerà e per questo deciderà che la lucertola eoliana merita un nome tutto suo: _Podarcis raffonei_.
 
 
-### 3 agosto 2026, Lipari.
+#### 3 agosto 2026, Lipari.
 
 C'è un cartello azzurro lungo la strada, con una scritta: "Il mare dipinto". Ci porta un vicolo, dove conosciamo Renata e i suoi acquerelli. Ci parla di un libro dove i suoi disegni e le parole di Pietro Lo Cascio raccontano di scogli, di lucertole, di popoli che sono passati e che hanno vissuto su quegli scogli. Da quella sera, ogni capitolo del libro ci ha parlato di posti che avremmo poi visto con i nostri occhi il giorno seguente.
 
@@ -31,25 +31,25 @@ C'è un cartello azzurro lungo la strada, con una scritta: "Il mare dipinto". Ci
 </div>
 
 
-### Tra quarantamila e diecimila anni fa, mar Tirreno.
+#### Tra quarantamila e diecimila anni fa, mar Tirreno.
 
 La litosfera ionica continua a sprofondare e il magma, lentissimo, a risalire. Arriva in superficie e, più o meno violentemente, si trasforma in cenere e roccia costruendo nuovi edifici vulcanici, che rapidamente vengono colonizzati da piante e animali e, naturalmente, dalle lucertole eoliane. Ma la superficie della Terra è plasmata tanto dalle profondità del pianeta quanto dall'acqua e dall'aria che la ricoprono: così le onde e la pioggia lavano via la cenere, sgretolano la roccia, e la terra scompare da sotto le zampe delle lucertole: a Strombolicchio, quella che prima era una grande isola vulcanica diventa sempre più piccola, sempre più piccola, fino a che non rimane solo il basalto che era nel camino vulcanico, ultimo rifugio delle lucertole dell'isola. A Filicudi un gruppo di lucertole si troverà separato dall'isola maggiore, su uno scoglio via via sempre più piccolo fino a ridursi ad una colonna basaltica verticale, che gli _Homo sapiens sapiens_ chiameranno millenni dopo "La Canna". Cercando di sopravvivere su quelle pareti verticali con i resti dei pasti dei falchi della regina che vi abitano, immagino che avranno maledetto il fato per la loro sorte ingrata, invidiando le sorelle rimaste su Filicudi.
 
 
-### 4 agosto 2026, Stromboli.
+#### 4 agosto 2026, Stromboli.
 
 E' sera, dalla piazzetta di San Vincenzo guardiamo Strombolicchio che il sole sta iniziando a colorare. Sono al telefono con Sara, lavora nell'associazione Nesos; il caldo ci ha fatto sfumare l'escursione del giorno dopo, ma lei mi sta riempiendo di consigli su tutte le cose che due naturalisti potrebbero apprezzare delle Eolie. Capisco soprattutte due cose: non ci basteranno mai i giorni che abbiamo per vedere tutto, e senza una guida non penso sarò capace di trovare nemmeno la metà di quello che mi sta raccontando. Su Strombolicchio, davanti a noi, le _Podarcis raffonei_ sono ancora lì a prendere l'ultimo sole della giornata.
 
 Poco dopo Miriana, la barca che ci sta portando in questa escursione, è ferma davanti alla Sciara del Fuoco mentre alle nostre spalle il sole scende sotto l'orizzonte. Stromboli ci regala un bel botto, un fuoco d'artificio di lava che illumina la vetta per qualche secondo e solleva un coro di stupore dalle persone strette sulla prua. La litosfera ionica continua a sprofondare, il magma, lentissimo, a risalire.
 
 
-### 5 agosto 2026, Lipari.
+#### 5 agosto 2026, Lipari.
 
 Cercando di seguire i consigli di Sara facciamo una passeggiata alle cave di Caolino. Nel caldo torrido vediamo il nostro primo falco della regina, e tante lucertole. Non _Podarcis raffonei_: si tratta di _Podarcis siculus_, la lucertola campestre comune in gran parte della Sicilia e della penisola. Sulle Eolie, oggi la lucertola eoliana non c'è, se non in pochi scogli e luoghi remoti. Con ogni probabilità, il motivo di questo paradosso è l'uomo.
 
 
 
-### Circa 4000 a.C., Lipari.
+#### Circa 4000 a.C., Lipari.
 
 Sul rilievo roccioso affacciato sul mare che oggi chiamiamo Castello di Lipari si trova il villaggio, case di pietra con tetti di ginestra. Gli abitanti coltivano la terra dell'isola, pescano, ma la loro vera ricchezza è l'ossidiana: il vetro vulcanico di cui la rapida solidificazione del magma ha reso ricca l'isola viene cavato, lavorato per ottenerne coltelli, asce, rasoi, punte di freccia, e soprattutto scambiato: il Mediterraneo è già attraversato da barche e naviganti, i prodotti della penisola e della Sicilia arrivano a Lipari, e da lì l'ossidiana e le ceramiche di Lipari si spostano in quella che sarà l'Italia, arrivano nella penisola balcanica e nelle coste del Nord Africa - ancora ricche di acqua, laghi e foreste - e insieme ad esse si spostano storie e racconti e lingue che oggi possiamo, in gran parte, solo immaginare.
 
@@ -61,7 +61,7 @@ Le derelitte lucertole eoliane della Canna forse non avranno più invidiato il d
 
 
 
-### 6 agosto 2026, Filicudi.
+#### 6 agosto 2026, Filicudi.
 
 Monica è in piedi accanto al timone del Catodon, il gommone di Filicudi Wildlife Conservation, scruta l'orizzonte cercando segni di delfini - o di plastica galleggiante, o di boe di palangari. Il suo sguardo sembra sfidare il mondo dicendo "posso davvero cambiarlo in meglio". Abbiamo appena lasciato un gruppo di stenelle, e ora stiamo andando a controllare un idrofono e un FAD sperimentale che l'associazione sta studiando per proporre sistemi di pesca più sostenibili. I ragazzi con noi sul gommone stanno facendo un campo di volontariato di biologia marina, in mano i fogli per il monitoraggio di cetacei e tartarughe marine. Sara - sì, anche lei si chiama così, ma non è la stessa che mi raccontava al telefono le passeggiate delle Eolie - ci spiega il monitoraggio, come distinguere i delfini, i progetti che stanno seguento, noi raccontiamo di aquile, di gipeti e di inanellamento. 
 
@@ -72,12 +72,12 @@ Passiamo accanto alla Canna: una flotta di barche turistiche cinge d'assedio i f
 </div>
 
 
-### 17 novembre 1869, Egitto.
+#### 17 novembre 1869, Egitto.
 
 Un corteo di navi parte da Port Said verso sud: è l'inaugurazione del Canale di Suez. Dopo milioni di anni di separazione, un canale di acqua salata collega direttamente il Mar Mediterraneo e il Mar Rosso. E dove si spostano gli uomini, si spostano anche gli altri esseri viventi: centinaia di specie abituate a vivere nelle acque povere di nutrienti del Mar Rosso si trovano a disposizione le ricche acque del Mediterraneo, e si lanciano alla sua conquista. Si chiameranno "migranti Lessepsiani", perché è proprio l'opera fatta costruire da Ferdinand de Lesseps che avrà permesso il loro viaggio.
 
 
-### 6 agosto 2026, Filicudi.
+#### 6 agosto 2026, Filicudi.
 
 Il gommone è all'ancora accanto allo Scoglio della Fortuna, nuotiamo in mezzo ad una moltitudine di donzelle pavonine e piccolissime castagnole blu elettrico. Sara si immerge e recupera una conchiglia, lucente all'interno: una valva di _Pinctada radiata_, l'ostrica perlifera del Golfo, la prima dei migranti Lessepsiani.
 
@@ -85,17 +85,17 @@ Il gommone è all'ancora accanto allo Scoglio della Fortuna, nuotiamo in mezzo a
     <img src="https://lh3.googleusercontent.com/pw/AP1GczNGFi8_B6nRj1vxurENNg9Xbg30gu_8evgHCVFCA3Qkoc8MS4IIeW1mSKvJQJws8tpNRAQ8jFsTWD_Vdn-J5K1LNIXrCzJ0y-QoVonnfScB1cKY3FG2IKfEEWj7w094c7rLsuFXFw-oG0wbUGh1vfjrmA=w855-h855-s-no-gm?authuser=0" alt="Pinctada radiata" />
 </div>
 
-### Circa 0 d.C., Basiluzzo.
+#### Circa 0 d.C., Basiluzzo.
 
 Un ricco aristocratico romano osserva il tramonto dalla terrazza della sua villa affacciata sulla rupe di Basiluzzo. Non vuole sprecare la brezza e l'odore del mare di quegli ultimi giorni di villeggiatura prima di tornare nel caos della civiltà. Forse con i suoi commensali sta parlando di storia, di antiche civiltà, di come potevano vivere i primitivi che hanno scolpito l'ossidiana i cui frammenti sono così comuni a Lipari, di quanto la tecnologia e la società abbiano trasformato le civiltà primitive nel mondo attuale: strade, acquedotti, rete postale, industria... Non può saperlo con precisione, ma sono passati quattromila anni da quei popoli che tagliavano l'ossidiana, e soltanto la metà ne dovranno passare prima che la barca Miriana ci porti ai piedi della sua isola.
 
 
-### 4 agosto 2026, Basiluzzo.
+#### 4 agosto 2026, Basiluzzo.
 
 La barca è all'ancora per il secondo bagno della giornata, con la maschera guardiamo sotto di noi centinaia di castagnole che ci nuotano intorno. Attorno all'isola, decine di altre barche. Sull'isola, ora riserva integrale, non c'è più niente se non pietre, piante e animali, e antichi resti di una villa romana a picco sulla rupe.
 
 
-### 3 agosto 1888, Vulcano.
+#### 3 agosto 1888, Vulcano.
 
 La litosfera ionica continua a sprofondare, il magma continua a risalire. In una "goccia" di magma, fattasi strada fin quasi alla superficie, i gas si stanno liberando, formando bolle sempre più grandi e premendo sulle rocce soprastanti. Quando la pressione aumenta abbastanza la roccia si frattura, e il gas accumulato si libera verso l'atmosfera portando con sé brandelli di magma che rapidamente solidifica.
 
@@ -105,7 +105,7 @@ L'eruzione dura due anni: il gas accumulato si è liberato, i piroclasti e la ce
 
 
 
-### 6 agosto 2026, Lipari.
+#### 6 agosto 2026, Lipari.
 
 Un messaggio di Sara di Nesos ci comunica l'insperato: una visita guidata last minute al Gran Cratere dell Fossa di Vulcano, il giorno dopo. Facciamo i conti con gli orari, ci organizziamo per depositare i bagagli: dovremmo riuscire a partecipare.
 
@@ -125,13 +125,13 @@ Al ritorno Sara ci porta su un percorso diverso: giù per il ripido fianco del v
 
 
 
-### 8 agosto 2026, Lipari
+#### 8 agosto 2026, Lipari
 
 I bagagli sono già pronti, ma prima di partire facciamo un ultimo giro per il paese. Incontriamo e salutiamo Renata davanti alla sua bottega. Sara ci apre la sede di Nesos, e finalmente le vediamo dal vivo: cinque _Podarcis raffonei_ che l'associazione sta allevando in una teca, per farle riprodurre e liberare i nuovi nati su altri scogli dell'arcipelago, creando nuovi rifugi per la specie e allontanando un po' il rischio di estinzione che grava su di essa.
 
 
 
-### 27 agosto 2026
+#### 27 agosto 2026
 
 Guardo di nuovo la lucertola sulla cartolina. E' un piccolo animale, ma come è piccola la storia dei nostri giorni rispetto alle storie che si scoprono cercando questa piccola lucertola...
 
