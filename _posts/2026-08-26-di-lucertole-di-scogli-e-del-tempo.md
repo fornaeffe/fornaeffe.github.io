@@ -107,7 +107,7 @@ L'eruzione dura due anni: il gas accumulato si è liberato, i piroclasti e la ce
 
 #### 6 agosto 2026, Lipari.
 
-Un messaggio di Sara di Nesos ci comunica l'insperato: una visita guidata last minute al Gran Cratere dell Fossa di Vulcano, il giorno dopo. Facciamo i conti con gli orari, ci organizziamo per depositare i bagagli: dovremmo riuscire a partecipare.
+Un messaggio di Sara di Nesos ci comunica l'insperato: una visita guidata last minute al Gran Cratere della Fossa di Vulcano, il giorno dopo. Facciamo i conti con gli orari, ci organizziamo per depositare i bagagli: dovremmo riuscire a partecipare.
 
 Il mattino successivo poco prima delle sette siamo sul molo di Lipari, in attesa dell'aliscafo per Vulcano. Poco dopo siamo ai piedi del Gran Cratere, e iniziamo la salita. L'orario, il versante in ombra che stiamo risalendo e un venticello fresco rendono gradevole quella che altrimenti sarebbe una ripida salita sotto un caldo soffocante. Al termine del sentiero si apre un altro mondo rispetto a quello fatto di barche, casette bianche e acqua cristallina di Vulcano Porto: una voragine di cenere e tufo, orlata di pennacchi di fumo e chiazze gialle di cristalli di zolfo. Sotto di noi il magma continua a degassare, le bolle continuano a crescere, e un po' di quel gas si infiltra nelle fessure tra le rocce liberandosi infine nell'atmosfera accanto a noi.
 
